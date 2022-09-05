@@ -1,38 +1,35 @@
 {
- "events": [
-        {
-          "id": 592801,
-          "category": "Hound dogs",
-          "title": "Learn all you can about Hound Dogs",
-          "description":
-            "The hound dog is a unique and often times misuderstood canine. come lear all about the hound dog",
-          "location": "Dog House",
-          "date": "September 30th, 2022",
-          "time": "1:00",
-          "pestAllowed": true,
-          "organizer": "Barkley Chiffon",
-        },
-        {
-          "id": 592802,
-          "category": "crocks and alligators",
-          "title": "Crocs & Gators",
-          "description": "Learn all about Alligators and the American Crocodile",
-          "location": "PEverglades",
-          "date": "October 4th, 2022",
-          "time": "3:00",
-          "pestAllowed": false,
-          "organizer": "Felix Tender",
-        },
-        {
-          "id": 592803,
-          "category": "animal welfare",
-          "title": "Cat Adoption Day",
-          "description": "Find your new feline friend at this event",
-          "location": "Purr Valley",
-          "date": "September 24th, 2022",
-          "time": "12:00",
-          "pestAllowed": true,
-          "organizer": "Lion Puma",
-        },
-      ], 
-}
+   "events":[
+      {
+         "id":592801,
+         "category":"Hound dogs",
+         "title":"Learn all you can about Hound Dogs",
+         "description":"The hound dog is a unique and often times misuderstood canine. come lear all about the hound dog",
+         "location":"Dog House",
+         "date":"September 30th, 2022",
+         "time":"1:00",
+         "pestAllowed":true,
+         "organizer":"Barkley Chiffon"
+      },
+      {
+         "id":592802,
+         "category":"crocks and alligators",
+         "title":"Crocs & Gators",
+         "description":"Learn all about Alligators and the American Crocodile",
+         "location":"PEverglades",
+         "date":"October 4th, 2022",
+         "time":"3:00",
+         "pestAllowed":false,
+         "organizer":"Felix Tender"
+      },
+      {
+         "id":592803,
+         "category":"animal welfare",
+         "title":"Cat Adoption Day",
+         "description":"Find your new feline friend at this event",
+         "location":"Purr Valley",
+         "date":"September 24th, 2022",
+         "time":"12:00",
+         "pestAllowed":true,
+         "organizer":"Lion Puma"
+      }
